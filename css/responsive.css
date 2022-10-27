@@ -70,4 +70,8 @@
     html {
         font-size: 50%;
     }
+    
+     .footer .credit {
+        font-size: 1.2rem;
+    }
 }
